@@ -1,4 +1,4 @@
-package LapSheet_Solution.EXTRA;
+package EXTRA;
 
 public class ex_1 {
     public static void main(String[] args) {
