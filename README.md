@@ -61,7 +61,7 @@
 > جميع الحلول موجودة في فرع **master**  
 > إذا لم تظهر الملفات، قم بتغيير الفرع من **main** إلى **master**  
 > أو يمكنك الانتقال مباشرة من هنا:  
-> 👉 https://github.com/OmarAlmashaqbeh/REPO/tree/master
+> 👉 [https://github.com/OmarAlmashaqbeh/REPO/tree/master](https://github.com/OmarAlmashaqbeh/JAVA_1_LAP/tree/master?tab=readme-ov-file)
 
 ---
 
