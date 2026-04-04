@@ -14,6 +14,6 @@ public class Question_4 {
         else {
             Net_Salary = Bas_Salary - Bas_Salary*0.08;
         }
-        JOptionPane.showMessageDialog(null, "Net Salary is: " + Net_Salary);
+        JOptionPane.showMessageDialog(null, "Net Salary is: " + Net_Salary, "Net Salary", JOptionPane.PLAIN_MESSAGE);
     }
 }
